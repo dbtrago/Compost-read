@@ -73,18 +73,6 @@ Calculadora web que permite a los agricultores generar mezclas de compost óptim
 
 ---
 
-## 📋 Modelo relacional
-
-El sistema utiliza un modelo de base de datos en MySQL que incluye tablas para usuarios, fincas, materiales, cálculos históricos y relaciones entre personas y fincas:
-
-<p align="center">
-  <a href="https://camporegenerativo.edu.co/Modelo_Relacional_Compostometro.png">
-    <img src="https://camporegenerativo.edu.co/Modelo_Relacional_Compostometro.png" alt="Compost" width="400"/>
-  </a>
-</p>
-
----
-
 ## 📑 Requisitos previos
 
 Para ejecutar y mantener este proyecto se recomienda contar con:
